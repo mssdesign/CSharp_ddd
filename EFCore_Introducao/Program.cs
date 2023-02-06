@@ -23,7 +23,7 @@ namespace EFCore_Introducao
 
             db.Client.Add(client);
 
-            Client client2 = new Client()
+            client = new Client()
             {
                 Name = "Pedro",
                 Data_Nascimento = new DateTime(1995, 5, 21)
@@ -31,6 +31,7 @@ namespace EFCore_Introducao
 
             db.Client.Add(client);
 
+            db.SaveChanges();
             Console.ReadKey();
         }
     }
