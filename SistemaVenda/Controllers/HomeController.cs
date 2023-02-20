@@ -17,11 +17,21 @@ namespace SistemaVenda.Controllers
 
         public IActionResult Index()
         {
-            Categoria objCategoria = Repositorio.Categoria.Where(x => x.Codigo == 1).FirstOrDefault();
+            //Adicionando
+            //Repositorio.Categoria.Add(new Categoria
+            //{
+            //    Descricao = "Bolinhos",
+            //});
 
-            objCategoria.Descricao = "Bebidas";
+            Categoria objCategoria = Repositorio.Categoria.Where(x => x.Codigo == 2).FirstOrDefault();
 
-            Repositorio.Entry(objCategoria).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            //Alterando
+            //objCategoria.Descricao = "Bebidas";
+            //Repositorio.Entry(objCategoria).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+
+            //Excluindo
+            Repositorio.Attach(objCategoria);
+            Repositorio.Remove(objCategoria);
 
             Repositorio.SaveChanges();
 
