@@ -17,9 +17,15 @@ namespace SistemaVenda.Controllers
 
         public IActionResult Index()
         {
-            IEnumerable<Categoria> lista = Repositorio.Categoria.ToList();
+            Categoria objCategoria = Repositorio.Categoria.Where(x => x.Codigo == 1).FirstOrDefault();
 
-            return View(lista);
+            objCategoria.Descricao = "Bebidas";
+
+            Repositorio.Entry(objCategoria).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+
+            Repositorio.SaveChanges();
+
+            return View();
         }
 
         public IActionResult Privacy()
