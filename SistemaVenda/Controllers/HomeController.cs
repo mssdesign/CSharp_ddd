@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SistemaVenda.DAL;
+using SistemaVenda.Entidades;
 using SistemaVenda.Models;
 using System.Diagnostics;
 
@@ -6,15 +8,23 @@ namespace SistemaVenda.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        protected ApplicationDbContext Repositorio;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ApplicationDbContext repositorio)
         {
-            _logger = logger;
+            Repositorio= repositorio;
         }
 
         public IActionResult Index()
         {
+            Categoria categoria = new Categoria()
+            {
+                Descricao = "teste"
+            };
+
+            Repositorio.Categoria.Add(categoria);
+            Repositorio.SaveChanges();
+
             return View();
         }
 

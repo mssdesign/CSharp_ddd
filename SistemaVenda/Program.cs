@@ -6,9 +6,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("Server=.;Database=Estoque;Trusted_Connection=True;MutipleActiveResultSets=true"));
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("Server=.;Database=Estoque;TrustServerCertificate=True;\r\nTrusted_Connection=True;MultipleActiveResultSets=True;"));
 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddSession();
 
 var app = builder.Build();
 
