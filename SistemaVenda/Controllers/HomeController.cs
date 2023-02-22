@@ -17,23 +17,7 @@ namespace SistemaVenda.Controllers
 
         public IActionResult Index()
         {
-            //Adicionando
-            //Repositorio.Categoria.Add(new Categoria
-            //{
-            //    Descricao = "Bolinhos",
-            //});
-
-            Categoria objCategoria = Repositorio.Categoria.Where(x => x.Codigo == 2).FirstOrDefault();
-
-            //Alterando
-            //objCategoria.Descricao = "Bebidas";
-            //Repositorio.Entry(objCategoria).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-
-            //Excluindo
-            Repositorio.Attach(objCategoria);
-            Repositorio.Remove(objCategoria);
-
-            Repositorio.SaveChanges();
+           
 
             return View();
         }

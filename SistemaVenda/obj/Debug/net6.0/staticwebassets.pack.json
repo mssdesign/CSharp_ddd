@@ -13,6 +13,42 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg.jpg"
+    },
+    {
+      "Id": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\categorias.png",
+      "PackagePath": "staticwebassets\\img\\categorias.png"
+    },
+    {
+      "Id": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\clientes.png",
+      "PackagePath": "staticwebassets\\img\\clientes.png"
+    },
+    {
+      "Id": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\configuracoes.png",
+      "PackagePath": "staticwebassets\\img\\configuracoes.png"
+    },
+    {
+      "Id": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\produtos.png",
+      "PackagePath": "staticwebassets\\img\\produtos.png"
+    },
+    {
+      "Id": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\relatorios.png",
+      "PackagePath": "staticwebassets\\img\\relatorios.png"
+    },
+    {
+      "Id": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\vendas.png",
+      "PackagePath": "staticwebassets\\img\\vendas.png"
+    },
+    {
+      "Id": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\vendedores.png",
+      "PackagePath": "staticwebassets\\img\\vendedores.png"
+    },
+    {
       "Id": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
