@@ -3229,11 +3229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\SistemaVenda.csproj",
+      "projectUniqueName": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\SistemaVenda.csproj",
       "projectName": "SistemaVenda",
-      "projectPath": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\SistemaVenda.csproj",
+      "projectPath": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\SistemaVenda.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\obj\\",
+      "outputPath": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3290,7 +3290,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W9N76b6+C9a77SMlxOMXPE+coxszePFhpgNi3XT0rZadLLZcF8JqGrXWvm9qUv5LnMHsrnuVxYNpZdshpvZc5w==",
+  "dgSpecHash": "Z4w7lmIYd8Aw/Y2lMhqY7aOClsC1Y/Oqw677vtvI6rVrDkrqWfNcO6uTrezZlSaA4+xDO76Jyg6v0vv3ELJ28w==",
   "success": true,
-  "projectFilePath": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\SistemaVenda.csproj",
+  "projectFilePath": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\SistemaVenda.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

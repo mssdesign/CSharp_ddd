@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w8jhXRCAKkCkbocsbpRHa+jzbkvCICAy7NUd7VmLxME=",
+  "Hash": "AY8J9MxW4ZqDisHLQUki/ng2hxAP9lf4VmVTQDeUZvg=",
   "Source": "SistemaVenda",
   "BasePath": "_content/SistemaVenda",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SistemaVenda\\wwwroot",
       "Source": "SistemaVenda",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SistemaVenda.styles.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SistemaVenda.styles.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "SistemaVenda.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SistemaVenda.styles.css"
+      "OriginalItemSpec": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SistemaVenda.styles.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SistemaVenda.bundle.scp.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SistemaVenda.bundle.scp.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "SistemaVenda.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SistemaVenda.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SistemaVenda.bundle.scp.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\css\\site.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\favicon.ico",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\bg.jpg",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\bg.jpg",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "img/bg.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg.jpg"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\categorias.png",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\categorias.png",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "img/categorias.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\categorias.png"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\clientes.png",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\clientes.png",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "img/clientes.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\clientes.png"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\configuracoes.png",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\configuracoes.png",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "img/configuracoes.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\configuracoes.png"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\logo.png",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\logo.png",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\produtos.png",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\produtos.png",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "img/produtos.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\produtos.png"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\relatorios.png",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\relatorios.png",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "img/relatorios.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\relatorios.png"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\vendas.png",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\vendas.png",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "img/vendas.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vendas.png"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\vendedores.png",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\img\\vendedores.png",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "img/vendedores.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\vendedores.png"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\js\\site.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SistemaVenda",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\mathe\\Documents\\BACKEND\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\mathe\\Documentos\\Backend\\CSharp_ddd\\SistemaVenda\\wwwroot\\",
       "BasePath": "_content/SistemaVenda",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
